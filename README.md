@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Zulfiia Ditto
 - 👀 I’m interested in data science in healthcare
-- 🌱 I’m currently C#, .Net core, Xamarin and deep and machine learning with Python 
 - 💞️ I’m looking to collaborate on deep learning, machine learning projects in healthcare  
 - 📫 How to reach me - send me message on Linkedin https://www.linkedin.com/in/zulfiia-ditto-ph-d-088681a9/
 
